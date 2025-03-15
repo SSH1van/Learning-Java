@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.ivan.learning.ThinkingInJava.chapter02","c":"Exercise14","l":"Exercise14()","u":"%3Cinit%3E()"},{"p":"com.ivan.learning.ThinkingInJava.chapter02","c":"Exercise14","l":"f()"},{"p":"com.ivan.learning.ThinkingInJava.chapter02","c":"Exercise14","l":"i"}];updateSearchResults();
