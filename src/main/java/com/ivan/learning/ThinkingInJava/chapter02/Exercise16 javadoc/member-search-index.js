@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.ivan.learning.ThinkingInJava.chapter02","c":"Exercise16","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
